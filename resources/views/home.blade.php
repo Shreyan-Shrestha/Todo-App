@@ -202,6 +202,7 @@
         </div>  
     </div>
 
+    <button>transparent</button>
     
 @endsection
         
